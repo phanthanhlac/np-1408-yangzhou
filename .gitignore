@@ -1,0 +1,21 @@
+# cache directories
+Thumbs.db
+*.DS_Store
+*.codekit*
+*.empty
+.svn
+*.rb
+
+#phpstorm project files
+.idea
+
+#netbeans project files
+nbproject
+
+#eclipse, zend studio, aptana or other eclipse like project files
+.buildpath
+.project
+.settings
+/robots.txt
+/wp-config.php
+/.htaccess
